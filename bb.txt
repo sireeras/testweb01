@@ -1,2 +1,2 @@
 sadf
-$ git remote add <shortname> <url>
+$ git remote add <shortnameaadc> <url>
